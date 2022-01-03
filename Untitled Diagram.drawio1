@@ -1,1 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2022-01-03T08:01:59.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" version="16.1.2" etag="Z4AGXDej_LlFYO73UEeP" type="github"><diagram id="s_9ii_8w7O63f2VSRKgI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-03T09:44:32.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.62" etag="N2WI-8Fr91PL3kWK3Vng" version="16.1.2" type="github">
+  <diagram id="s_9ii_8w7O63f2VSRKgI" name="Page-1">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VZpcTSGMXgCA4P5H8da3-1" value="&lt;span style=&quot;font-size: 14px&quot;&gt;DOIBONG(&lt;u style=&quot;font-size: 14px&quot;&gt;MADOIBONG,&lt;/u&gt;TENDOIBONG,MACT,MAHLV&lt;u style=&quot;font-size: 14px&quot;&gt;)&lt;/u&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VZpcTSGMXgCA4P5H8da3-2" value="CAUTHU(&lt;u style=&quot;font-size: 14px;&quot;&gt;MACT&lt;/u&gt;,TENCT)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Courier New;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="165" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VZpcTSGMXgCA4P5H8da3-3" value="TRANDAU(&lt;u style=&quot;font-size: 14px&quot;&gt;MATRANDAU,&lt;/u&gt;TENTRANDAU,THOIGIAN,MADOIBONG1,MADOIBONG2,MASVD)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VZpcTSGMXgCA4P5H8da3-4" value="HUANLUYENVIEN(&lt;u style=&quot;font-size: 14px;&quot;&gt;MAHLV&lt;/u&gt;,TENHLV)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="300" width="232" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VZpcTSGMXgCA4P5H8da3-5" value="SANVANDONG(&lt;u style=&quot;font-size: 14px;&quot;&gt;MASVD&lt;/u&gt;,TENSVD)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="370" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VZpcTSGMXgCA4P5H8da3-6" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Courier New;fontSize=14;exitX=0.645;exitY=-0.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VZpcTSGMXgCA4P5H8da3-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="220" as="sourcePoint" />
+            <mxPoint x="197" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="197" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VZpcTSGMXgCA4P5H8da3-7" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Courier New;fontSize=14;exitX=0.931;exitY=1.113;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VZpcTSGMXgCA4P5H8da3-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="330" as="sourcePoint" />
+            <mxPoint x="204" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="601" y="440" />
+              <mxPoint x="204" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VZpcTSGMXgCA4P5H8da3-8" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Courier New;fontSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VZpcTSGMXgCA4P5H8da3-1" target="VZpcTSGMXgCA4P5H8da3-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="220" as="sourcePoint" />
+            <mxPoint x="490" y="140" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VZpcTSGMXgCA4P5H8da3-9" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Courier New;fontSize=14;exitX=0.895;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.598;entryY=1.087;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VZpcTSGMXgCA4P5H8da3-1" target="VZpcTSGMXgCA4P5H8da3-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="330" as="sourcePoint" />
+            <mxPoint x="553" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="393" y="20" />
+              <mxPoint x="40" y="20" />
+              <mxPoint x="40" y="360" />
+              <mxPoint x="219" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VZpcTSGMXgCA4P5H8da3-13" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Courier New;fontSize=14;entryX=0.39;entryY=1.06;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="VZpcTSGMXgCA4P5H8da3-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="220" as="sourcePoint" />
+            <mxPoint x="180" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
